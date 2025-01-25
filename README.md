@@ -37,7 +37,7 @@ Create Ticket as End User Lorem ipsum dolor sit amet, consectetur adipiscing eli
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/7d7033d0-2589-4c1e-9601-e8358d1211ad)
+![image](https://github.com/user-attachments/assets/8112957d-5e39-487f-8ae7-9f56c8dcdffc)
 
 </p>
 <p>
