@@ -33,7 +33,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Create Ticket as End User Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+#1 Create Ticket as End User As an end-user, create the following ticket
+entire mobile/online banking system is down
+
 </p>
 <br />
 
@@ -41,7 +43,10 @@ Create Ticket as End User Lorem ipsum dolor sit amet, consectetur adipiscing eli
 
 </p>
 <p>
-Observe Ticket Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+#2 Observe Ticket observe the ticket’s properties Priority, Department, SLA, Assigned To 
+Set Properties to the ticket, Sev-A (1 hour, 24/7), Online Banking DepartmentSet Properties to all the tickets; do SEV-A (SysAdmins last), observe ticket becomes inaccessible Switch to admin panel and assign yourself View-access to Sys Admins Switch to agent panel and observe the escalated ticket Observe that you can no longer make changes to it
+
+
 </p>
 <br />
 
@@ -49,6 +54,6 @@ Observe Ticket Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do e
 
 </p>
 <p>
-Resolving the Ticket Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+#3 Resolving the Ticket I demonstrated exceptional communication and problem-solving skills while addressing a Sev A issue reported by Karen, the head of a banking company, through the osTicketing system. After identifying the urgency of the issue from her tone, I promptly initiated a phone conversation to gather details and reassure her. The banking team suspected the recent updates were the root cause. I acknowledged their concerns, explained our testing process, and assured them I would investigate further. After analysis, it was confirmed that the update caused the outage. I coordinated the rollback of the changes, notified the vendor, and restored system functionality.
 </p>
 <br />
