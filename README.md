@@ -5,11 +5,6 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -29,26 +24,28 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+(Image #1)
+
 ![image](https://github.com/user-attachments/assets/a84f3bba-800c-4809-840c-67b0d5ae9510)
 
 </p>
 <p>
-#1 Create Ticket as End User As an end-user, create the following ticket
-entire mobile/online banking system is down
+#1 Create Ticket as End User - Login as Karen as an end-user and create the a Sev- A ticket, for example the problem will be that the online banking system is down.
 
 </p>
 <br />
+(Image #1)
 
 ![image](https://github.com/user-attachments/assets/8112957d-5e39-487f-8ae7-9f56c8dcdffc)
 
 </p>
 <p>
-#2 Observe Ticket observe the ticket’s properties Priority, Department, SLA, Assigned To 
-Set Properties to the ticket, Sev-A (1 hour, 24/7), Online Banking DepartmentSet Properties to all the tickets; do SEV-A (SysAdmins last), observe ticket becomes inaccessible Switch to admin panel and assign yourself View-access to Sys Admins Switch to agent panel and observe the escalated ticket Observe that you can no longer make changes to it
+#2 Observe Ticket - As jon observe the ticket’s properties such as its priority, department, SLA. Click on each of the properties of the ticket. As Jon (SysAdmin) set the priority to Emergency and the SLA plan to Sev-A (1 hour, 24/7). Set it to the Online Banking Department and assign ticket to Jane. After that log off of Jon's account and go into Jane's to observe the escalated ticket that was assigned. 
 
 
 </p>
 <br />
+(Image #1)
 
 ![image](https://github.com/user-attachments/assets/98ce7820-1dfd-499f-84d8-aec5947726a6)
 
