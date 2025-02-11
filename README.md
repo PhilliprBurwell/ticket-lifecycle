@@ -40,7 +40,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-#2 Observe Ticket - As jon observe the ticket’s properties such as its priority, department, SLA. Click on each of the properties of the ticket. As Jon (SysAdmin) set the priority to Emergency and the SLA plan to Sev-A (1 hour, 24/7). Set it to the Online Banking Department and assign ticket to Jane. After that log off of Jon's account and go into Jane's to observe the escalated ticket that was assigned. 
+#2 Observe Ticket - As Jon observe the ticket’s properties such as its priority, department, SLA. Click on each of the properties of the ticket. As Jon (SysAdmin) set the priority to Emergency and the SLA plan to Sev-A (1 hour, 24/7). Set it to the Online Banking Department and assign ticket to Jane. After that log off of Jon's account and go into Jane's to observe the escalated ticket that was assigned. 
 
 
 </p>
@@ -51,6 +51,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-#3 Resolving the Ticket I demonstrated exceptional communication and problem-solving skills while addressing a Sev A issue reported by Karen, the head of a banking company, through the osTicketing system. After identifying the urgency of the issue from her tone, I promptly initiated a phone conversation to gather details and reassure her. The banking team suspected the recent updates were the root cause. I acknowledged their concerns, explained our testing process, and assured them I would investigate further. After analysis, it was confirmed that the update caused the outage. I coordinated the rollback of the changes, notified the vendor, and restored system functionality.
+#3 Resolving the Ticket - I demonstrated exceptional communication and problem-solving skills while addressing a Sev A issue reported by Karen, the head of a banking company, through the osTicketing system. After identifying the urgency of the issue from her tone, I promptly initiated a phone conversation to gather details and reassure her. The banking team suspected the recent updates were the root cause. I acknowledged their concerns, explained our testing process, and assured them I would investigate further. After analysis, it was confirmed that the update caused the outage. I coordinated the rollback of the changes, notified the vendor, and restored system functionality.
 </p>
 <br />
